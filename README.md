@@ -2,7 +2,7 @@
 
 I like to create applications that try to solve problems and simplify daily tasks of end users working in different domains.
 
-- 🌱 I'm constantly trying to explore new stuff 
+- 🌱 I'm constantly trying to learn and explore new stuff 
 - 📐 I'm Interested in learning about software architecture
 - ⚡ I have published an android app: https://mykameti.app
 - 🎁 At times publish npm packages
