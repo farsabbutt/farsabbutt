@@ -4,7 +4,7 @@ I like to create applications that try to solve problems and simplify daily task
 
 - 🌱 I'm constantly trying to learn and explore new stuff 
 - 📐 I'm Interested in learning about software architecture
-- ⚡ I have published an android app: https://mykameti.app
+- ⚡ I have recently published an android app: https://mykameti.app
 - 🎁 At times publish npm packages
 - ✨ Please feel free to check out my repositories
 
