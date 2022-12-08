@@ -6,7 +6,7 @@ I like to create applications that try to solve problems and simplify daily task
 - 📐 I'm Interested in learning about software architecture
 - ⚡ I have recently published an android app: https://mykameti.app
 - 🎁 At times publish npm packages
-- ✨ Please feel free to check out my repositories
+- ✨ Please feel free to check out my repositories :)
 
 <!--
 **farsabbutt/farsabbutt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
