@@ -3,10 +3,10 @@
 I like to create applications that try to solve problems and simplify daily tasks of end users working in different domains.
 
 - 🌱 I'm constantly trying to learn and explore new stuff 
-- 📐 I'm Interested in learning about software architecture
+- 📐 I'm Interested in learning more about software architecture and system design
 - ⚡ I have recently published a mobile app: https://mykameti.app
 - 🎁 At times publish npm packages
-- ✨ Please feel free to check out my repositories :)
+- ✨ Please feel free to check out my repositories :-)
 
 <!--
 **farsabbutt/farsabbutt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
