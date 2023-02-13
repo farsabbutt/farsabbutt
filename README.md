@@ -4,7 +4,7 @@ I like to create applications that try to solve problems and simplify daily task
 
 - 🌱 I'm constantly trying to learn and explore new stuff 
 - 📐 I'm Interested in learning more about software architecture and system design
-- ⚡ I have recently published a mobile app: https://mykameti.app
+- ⚡ I have recently published a mobile app: https://mykameti.app and a tool: https://firestore-security-rules-ai.web.app/
 - 🎁 At times publish npm packages
 - ✨ Please feel free to check out my repositories :-)
 
