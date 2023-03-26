@@ -4,7 +4,7 @@ I like to create applications that try to solve problems and simplify daily task
 
 - 🌱 I'm constantly trying to learn and explore new stuff 
 - 📐 I'm Interested in learning more about software architecture and system design
-- ⚡ I have recently published a mobile app: https://mykameti.app and a tool: https://firestore-security-rules-ai.web.app/
+- ⚡ I have recently published a mobile app: https://mykameti.app and a tool: https://firetool.io/
 - 🎁 At times publish npm packages
 - ✨ Over the time I have starred and grouped a list of helpful resources belonging to different domains (frontend, backend, infrastructure, CLI etc), check them out <a href="https://github.com/farsabbutt?tab=stars">here</a>
 - ✨ Please feel free to check out my repositories :-)
