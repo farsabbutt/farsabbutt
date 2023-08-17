@@ -4,8 +4,8 @@ I like to create applications that try to solve problems and simplify daily task
 
 - 🌱 I'm constantly trying to learn and explore new stuff 
 - 📐 I'm Interested in learning more about software architecture and system design
-- ⚡ I have recently published mobile apps: https://play.google.com/store/apps/details?id=com.farsab.TalkerAI, https://mykameti.app
 - ⚡ I developed a SaaS solution for truck dispatching: https://dispatch.zomio.com
+- ⚡ I have recently published mobile apps: https://play.google.com/store/apps/details?id=com.farsab.TalkerAI, https://mykameti.app
 - ⚡ And a tool: https://firetool.io/
 - ⚡ I have also developed a few Google Chrome Extensions
 - 🎁 At times publish npm packages
