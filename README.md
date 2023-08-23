@@ -4,7 +4,7 @@ I like to create applications that try to solve problems and simplify daily task
 
 - 🌱 I'm constantly trying to learn and explore new stuff 
 - 📐 I'm Interested in learning more about software architecture and system design
-- ⚡ I developed a SaaS solution for truck dispatching: https://dispatch.zomio.com
+- ⚡ I developed a SaaS web app solution for truck dispatching: https://dispatch.zomio.com
 - ⚡ I have recently published mobile apps:
 - ⚡ Talking AI: https://play.google.com/store/apps/details?id=com.farsab.TalkerAI
 - ⚡ Kameti: https://mykameti.app
