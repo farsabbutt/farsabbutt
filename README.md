@@ -9,7 +9,8 @@ I like to create applications that try to solve problems and simplify daily task
 - ⚡ Talking AI: https://play.google.com/store/apps/details?id=com.farsab.TalkerAI
 - ⚡ Kameti: https://mykameti.app
 - ⚡ And a tool: https://firetool.io/
-- ⚡ I have also developed a few Google Chrome Extensions
+- ⚡ Developed a few Google Chrome Extensions
+- 🤖 Developed Discord bots
 - 🎁 At times publish npm packages
 - ✨ Over the time I have starred and grouped a list of helpful resources belonging to different domains (frontend, backend, infrastructure, CLI etc), check them out <a href="https://github.com/farsabbutt?tab=stars">here</a>
 - ✨ Please feel free to check out my repositories :-)
