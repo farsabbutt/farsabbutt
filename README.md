@@ -8,7 +8,7 @@ I like to create applications that try to solve problems and simplify daily task
 - ⚡ I have recently published mobile apps:
 - ⚡ Talking AI: https://play.google.com/store/apps/details?id=com.farsab.TalkerAI
 - ⚡ Kameti: https://mykameti.app
-- ⚡ And a tool: https://firetool.io/
+- ⚡ Custom CLI's
 - ⚡ Developed a few Google Chrome Extensions
 - 🤖 Developed Discord bots
 - 🎁 At times publish npm packages
