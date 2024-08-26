@@ -7,6 +7,7 @@ I like to create applications that try to solve problems and simplify daily task
 - ⚡ I developed a SaaS web app solution for truck dispatching: https://dispatch.zomio.com
 - ⚡ I have recently published mobile apps:
 - ⚡ Talking AI: https://play.google.com/store/apps/details?id=com.farsab.TalkerAI
+- ⚡ A crash course about building React Native AI app: https://www.udemy.com/course/build-a-talking-ai-app-from-scratch/
 - ⚡ Kameti: https://mykameti.app
 - ⚡ Custom CLI's
 - ⚡ Developed a few Google Chrome Extensions
