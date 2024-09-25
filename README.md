@@ -12,7 +12,7 @@ I like to create applications that try to solve problems and simplify daily task
 - ⚡ Custom CLI's
 - ⚡ Developed a few Google Chrome Extensions
 - 🤖 Developed Discord bots
-- 🎁 At times publish npm packages
+- 🎁 Developed/Published a few useless npm packages
 - ✨ Over the time I have starred and grouped a list of helpful resources belonging to different domains (frontend, backend, infrastructure, CLI etc), check them out <a href="https://github.com/farsabbutt?tab=stars">here</a>
 - ✨ Please feel free to check out my repositories :-)
 
